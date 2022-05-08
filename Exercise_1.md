@@ -16,7 +16,7 @@ We only need rectangles to make snake so we'll stick to just them for a while. T
 `ctx.fillRect(400, 50, 200, 200);` <br>
 `ctx.stroke();`
 
-which would like:<br>
+which would look like:<br>
 ![Black square](images/E1Square.PNG)
 
 If you wanted to add a outline of a square 50px below it that would be:
