@@ -14,7 +14,7 @@ https://www.w3schools.com/jsref/met_win_prompt.asp
 ## Console log
 Console log can be used for debugging. To open console in chrome, inspect element then select cosole from the top menu. You should see "Hello world" which is from line 5 of the template. If there's an error in your code it will be displayed in the console. 
 
-![Console](images/E2Console.PNG)
+![Console](images/E2console.PNG)
 
 https://www.w3schools.com/jsref/met_console_log.asp
 
