@@ -16,7 +16,7 @@ We only need rectangles to make snake so we'll stick to just them for a while. T
 `ctx.fillRect(400, 50, 200, 200);` <br>
 `ctx.stroke();`
 
-which would like:
+which would like:<br>
 ![Black square](images/E1Square.PNG)
 
 If you wanted to add a outline of a square 50px below it that would be:
@@ -30,6 +30,7 @@ If you wanted to add a outline of a square 50px below it that would be:
 I will be spelling colour "color" because it might come up code and it's just easier.
 
 To set the color we are drawing in to red we can use `ctx.fillStyle = "red"` before a retangle function call. For example, this code would draw a green rectangle: 
+
 `ctx.fillStyle = "green"` <br>
 `ctx.fillRect(200, 50, 200, 200);` <br>
 `ctx.stroke();`
